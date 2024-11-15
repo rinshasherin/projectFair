@@ -1,0 +1,5 @@
+1 - context provider file create cheyyuka (athinakathulla karyangalellam ella projects lum same aayirikkum).
+2 - 
+   i) child component lekk useContext(), context-instance(here, which is responseContext) neyum import cheyyuka.
+   ii) 
+    
